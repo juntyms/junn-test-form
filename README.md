@@ -2,10 +2,10 @@ Junn Test Form
 
 This is a sample test form for adding the following fields
 
-Wallet Address:
-Shirt/Hoodie Size:
-Hoodie Size:
-Alias:
-Shhipping Address:
-Email:
+<p>Wallet Address:</p>
+<p>Shirt/Hoodie Size:</p>
+<p>Hoodie Size:</p>
+<p>Alias:</p>
+<p>Shipping Address:</p>
+<p>Email:</p>
 
